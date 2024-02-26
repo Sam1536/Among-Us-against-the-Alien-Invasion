@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/jingles_PIZZA07.ogg-06a283200da0ced00cf47652deebf719.oggstr"
+
+[deps]
+
+source_file="res://GodotPlatformer2D/Sounds/jingles_PIZZA07.ogg"
+dest_files=[ "res://.import/jingles_PIZZA07.ogg-06a283200da0ced00cf47652deebf719.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

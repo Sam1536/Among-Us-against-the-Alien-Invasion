@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/minimize_001.ogg-506db9df240d98652f6a5f27a2eebced.oggstr"
+
+[deps]
+
+source_file="res://GodotPlatformer2D/Sounds/minimize_001.ogg"
+dest_files=[ "res://.import/minimize_001.ogg-506db9df240d98652f6a5f27a2eebced.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/pepSound4.ogg-6fd9fb18e1bbf6f3a3dbf15739585db3.oggstr"
+
+[deps]
+
+source_file="res://GodotPlatformer2D/Sounds/pepSound4.ogg"
+dest_files=[ "res://.import/pepSound4.ogg-6fd9fb18e1bbf6f3a3dbf15739585db3.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
