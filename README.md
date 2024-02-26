@@ -4,3 +4,7 @@
 
 # Gameplay🎮
 
+![AmongUsagainsttheAlienInvasionDEBUG2024-02-2613-01-42-ezgif com-video-to-gif-converter](https://github.com/Sam1536/Among-Us-against-the-Alien-Invasion/assets/89424721/6e6462bd-9f2d-45fa-89c9-954eabc8c7f3)
+
+
+![AmongUsagainsttheAlienInvasionDEBUG2024-02-2613-01-42-ezgif com-video-to-gif-converter (1)](https://github.com/Sam1536/Among-Us-against-the-Alien-Invasion/assets/89424721/5235dc7d-bf54-41bd-b609-9a565bef3054)
